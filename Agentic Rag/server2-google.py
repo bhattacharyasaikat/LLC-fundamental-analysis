@@ -18,8 +18,8 @@ import pickle
 nest_asyncio.apply()
 
 # API Keys
-LLAMA_KEY = "llx-xTWcZrXfwBJs5gNLlWuIMwfiWr2ldsOX6DQuP2FZxQ9503s5"
-GOOGLE_API = "AIzaSyA3VQpjBu6AI92KTsvoHomRdWBdMqalCPI"
+LLAMA_KEY = ""
+GOOGLE_API = ""
 
 # Initialize the embedding model
 model_name = "models/embedding-001"
